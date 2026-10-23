@@ -1,0 +1,10 @@
+{
+  "name": "QuizMaster – Multilingual Online Quiz & Examination System",
+  "description": "College-level multilingual online examination system featuring authentic bilingual English/Tamil questions, genuine Google OAuth 2.0 / OpenID Connect authentication, subject exploration, live timed examination palette, instant evaluation & review, question bank management, and complete Java Spring Boot backend blueprints.",
+  "requestFramePermissions": [
+    "identity-credentials-get"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
