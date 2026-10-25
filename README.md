@@ -105,6 +105,18 @@ npm run dev
 
 These React commands apply only if the repository contains the appropriate `package.json` scripts.
 
-## 🖥️ Screenshots
+## 👨‍💻 Author
 
-Add screenshots of your actual application here to show
+Jaanavin.N
+
+Engineering Student | Beginner Developer
+
+Interested in:
+
+Web Development
+Programming
+Artificial Intelligence
+Creative Projects
+Interactive Applications
+
+---
